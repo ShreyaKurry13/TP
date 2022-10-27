@@ -1,0 +1,10 @@
+{
+"web":
+{
+    "client_id":"359389337812-9cj923j9aat0m595pobq809q7lfkc2dc.apps.googleusercontent.com",
+    "project_id":"authentication-form-1d4a2",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"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"
+}
+}
